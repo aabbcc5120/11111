@@ -93,4 +93,8 @@ h1 {
 	  width: 100%;
 	}
   }
+li{
+	list-style-type: none;
+    display: inline;        
+  }
   
